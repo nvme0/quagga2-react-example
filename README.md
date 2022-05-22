@@ -1,9 +1,10 @@
-# quagga2-react-example
-Showcasing Quagga2 in combination with ReactJS
+# quagga2 & food api POC
+
+Showcasing Quagga2 in combination with ReactJS and the food api.
 
 # How to run
 
-```npm run start```
+`npm run start`
 
 then
 
